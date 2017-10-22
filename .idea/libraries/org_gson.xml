@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.gson">
+    <CLASSES>
+      <root url="jar://E:/jar-library/org.gson.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
